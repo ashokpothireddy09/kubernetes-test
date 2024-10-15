@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/dein-benutzername/dein-repo-name.git
+    repoURL: https://github.com/ashokpothireddy09/kubernetes-test.git
     targetRevision: main
     path: sample-app-chart
   destination:
