@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: kuberneteslabuser/sample-app
   pullPolicy: Always
-  tag: "v1"
+  tag: "v2"
 
 service:
   type: LoadBalancer
