@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: dein-dockerhub-benutzername/sample-app
+  repository: kuberneteslabuser/sample-app
   pullPolicy: Always
   tag: "v1"
 
